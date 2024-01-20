@@ -15,7 +15,9 @@
   - [Incident Report Analysis Using NIST Cybersecurity Framework](https://github.com/Anamayi/IncidentReportAnalysis/tree/main)✔
   - [Vulnerability Analysis for a Small Business](https://github.com/Anamayi/VulnerabilityAnalysis/tree/main)✔
 - <b>Cybersecurity Projects</b>
-
+  - [Firewall Configuration on Cisco Packet Tracer](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
+  - [Firewall configuration on windows OS](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
+  - [Network Traffic Analysis using WireShark and TCPdump](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
 
 - <b>C# (.NET Desktop Applications)</b>
 
