@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Networking Projects</b>
-  - [Building a Simmple Office Network using Packet Tracer](https://github.com/Anamayi/SimpleOfficeNetwork)
+  - [Building a Simple Office Network using Packet Tracer](https://github.com/Anamayi/SimpleOfficeNetwork)
   - [Building a Simple Home Network using Packet Tracer](https://github.com/Anamayi/SimpleHomeNetwork)
 - <b>Cybersecurity Projects</b>
   - [Using Linux Commands to Manage File Permisions](https://github.com/joshmadakor1/Sentinel-Lab)
