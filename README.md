@@ -6,13 +6,17 @@
 - <b>Networking Projects</b>
   - [Building a Simmple Office Network using Packet Tracer](https://github.com/Anamayi/SimpleOfficeNetwork)
   - [Building a Simple Home Network using Packet Tracer](https://github.com/Anamayi/SimpleHomeNetwork)
-- <b>Cybersecurity documentation projects</b>
-  - [Security Audit](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Cybersecurity Projects</b>
+  - [Using Linux Commands to Manage File Permisions](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Apply Filters to SQL Queries](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Updating files through Python algorithm](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Other Cybersecurity documentation projects</b>
+  - [Security Audit](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
+  - [Incident Report Analysis Using NIST Cybersecurity Framework](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
+  - [Vulnerability Analysis for a Small Business](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
+  - [Incident Handler's Journal](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
+
 - <b>C# (.NET Desktop Applications)</b>
 
 <h2> 🤳 Connect with me:</h2>
