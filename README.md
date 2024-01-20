@@ -13,9 +13,8 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Other Cybersecurity documentation projects</b>
   - [Security Audit](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
-  - [Incident Report Analysis Using NIST Cybersecurity Framework](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
+  - [Incident Report Analysis Using NIST Cybersecurity Framework](https://github.com/Anamayi/IncidentReportAnalysis/tree/main)
   - [Vulnerability Analysis for a Small Business](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
-  - [Incident Handler's Journal](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)
 
 - <b>C# (.NET Desktop Applications)</b>
 
