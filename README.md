@@ -9,7 +9,7 @@
 - <b>Cybersecurity Programming Languages Projects</b>
   - [Using Linux Commands to Manage File Permisions](https://github.com/Anamayi/LinuxCommands/tree/main)✔
   - [Applying Filters to SQL Queries](https://github.com/Anamayi/FilteringSQLQueries/tree/main)✔
-  - [Updating files through Python algorithm](https://github.com/joshmadakor1/AD_PS)
+  - [Updating files through Python algorithm](https://github.com/Anamayi/LinuxAlgo/tree/main)✔
 - <b>Other Cybersecurity documentation projects</b>
   - [Security Audit](https://github.com/Anamayi/SecurityAuditXYZco.-/tree/main)✔
   - [Incident Report Analysis Using NIST Cybersecurity Framework](https://github.com/Anamayi/IncidentReportAnalysis/tree/main)✔
