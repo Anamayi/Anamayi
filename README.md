@@ -1,13 +1,13 @@
 <h1>Hi, I'm David! <br/>
-<h3>❤ I love Cybersecurity!</h3>
+<h3>I love Cybersecurity!💕✨</h3>
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Networking Projects</b>
   - [Building a Simmple Office Network using Packet Tracer](https://github.com/Anamayi/SimpleOfficeNetwork)
-  - [Building a Simple Home Network using Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Building a Simple Home Network using Packet Tracer](https://github.com/Anamayi/SimpleHomeNetwork)
+- <b>Cybersecurity documentation projects</b>
+  - [Security Audit](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
