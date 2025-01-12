@@ -1,5 +1,5 @@
 <h1>Hi, I'm David! <br/>
-<h3>What is most important to me is consistent growth and self-improvement.Follow my journey!✨</h3>
+<h3>What is most important to me is consistent growth and self-improvement. Follow my journey!✨</h3>
 
 <h2>👨‍💻 Projects:</h2>
 
