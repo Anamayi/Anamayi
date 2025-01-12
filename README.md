@@ -8,10 +8,10 @@
   - [Building a Simple Home Network using Packet Tracer](https://github.com/Anamayi/SimpleHomeNetwork)✔
 
 -<b>I'm currently working on...</b>
-  - [Automating basic network configurations and tasks with python 3 and Cisco Packet Tracer]
-  - [Set up and management of network services on a Linux(Ubuntu) system using VirtualBox]
-  - [Analyzing network traffic to identify issues and understand protocol behavior using WireShark and Cisco Packet Tracer]
-  - [Secure a network by configuring firewalls and access control lists using Cisco Packet Tracer]
+  - Automating basic network configurations and tasks with python 3 and Cisco Packet Tracer
+  - Set up and management of network services on a Linux(Ubuntu) system using VirtualBox
+  - Analyzing network traffic to identify issues and understand protocol behavior using WireShark and Cisco Packet Tracer
+  - Secure a network by configuring firewalls and access control lists using Cisco Packet Tracer
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
